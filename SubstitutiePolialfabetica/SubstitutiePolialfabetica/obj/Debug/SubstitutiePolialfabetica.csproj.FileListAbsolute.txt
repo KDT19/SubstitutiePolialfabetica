@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\SubstitutiePolialfabetica\SubstitutiePolialfabetica\bin\Debug\SubstitutiePolialfabetica.exe.config
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\SubstitutiePolialfabetica\SubstitutiePolialfabetica\bin\Debug\SubstitutiePolialfabetica.exe
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\SubstitutiePolialfabetica\SubstitutiePolialfabetica\bin\Debug\SubstitutiePolialfabetica.pdb
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\SubstitutiePolialfabetica\SubstitutiePolialfabetica\obj\Debug\SubstitutiePolialfabetica.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\SubstitutiePolialfabetica\SubstitutiePolialfabetica\obj\Debug\SubstitutiePolialfabetica.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\SubstitutiePolialfabetica\SubstitutiePolialfabetica\obj\Debug\SubstitutiePolialfabetica.exe
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\SubstitutiePolialfabetica\SubstitutiePolialfabetica\obj\Debug\SubstitutiePolialfabetica.pdb
